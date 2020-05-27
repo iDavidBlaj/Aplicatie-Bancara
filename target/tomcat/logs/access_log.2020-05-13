@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [13/May/2020:17:07:47 +0300] "GET /Utilizator?id_Utilizator=1 HTTP/1.1" 200 63 http-bio-8080-exec-1 405
+0:0:0:0:0:0:0:1 - - [13/May/2020:17:17:02 +0300] "GET /Utilizator?id_Utilizator=1 HTTP/1.1" 404 969 http-bio-8080-exec-1 208
+0:0:0:0:0:0:0:1 - - [13/May/2020:17:20:22 +0300] "GET /Utilizator?id_Utilizator=1 HTTP/1.1" 404 969 http-bio-8080-exec-1 289
+0:0:0:0:0:0:0:1 - - [13/May/2020:17:20:25 +0300] "GET /Utilizator?id_Utilizator=1 HTTP/1.1" 404 969 http-bio-8080-exec-3 3
+0:0:0:0:0:0:0:1 - - [13/May/2020:17:25:23 +0300] "GET /Utilizator?id_Utilizator=1 HTTP/1.1" 200 264 http-bio-8080-exec-1 816
+0:0:0:0:0:0:0:1 - - [13/May/2020:17:27:32 +0300] "POST /Utilizator?id_Utilizator=1 HTTP/1.1" 200 65 http-bio-8080-exec-2 328
+0:0:0:0:0:0:0:1 - - [13/May/2020:17:30:04 +0300] "GET /Utilizator?id_Utilizator=1 HTTP/1.1" 200 264 http-bio-8080-exec-1 280
+0:0:0:0:0:0:0:1 - - [13/May/2020:17:33:00 +0300] "POST /Utilizator?id_Utilizator=1 HTTP/1.1" 200 85 http-bio-8080-exec-2 239
